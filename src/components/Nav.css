@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.menu__icon {
+  align-self: center;
+}
